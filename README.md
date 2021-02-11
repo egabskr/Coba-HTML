@@ -1,2 +1,2 @@
 # Coba-HTML
-coba coba saja
+Coba (bukan) bahasa pemrograman HTML
